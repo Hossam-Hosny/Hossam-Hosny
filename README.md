@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hossam Hosny</h1>
 <h3 align="center">Backend .Net developer From Egypt</h3>
-<h4 align="center">Enter to Repositories , Don't judge me by Contribution board! </h4>
+<h4 align="center">Take a Look on Repositories  , Don't judge me by Contribution board! </h4>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossam-hosny&label=Profile%20views&color=0e75b6&style=flat" alt="hossam-hosny" /> </p>
 
